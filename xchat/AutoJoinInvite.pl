@@ -1,5 +1,5 @@
 #
-# XChat Automatic Join on Invite
+# XChat Automatic Join on Invite.
 # Version 1.0
 # Perl
 # 
